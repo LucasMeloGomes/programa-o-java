@@ -1,23 +1,11 @@
-alert('que tal participa de uma brincadeira nada divertida');
-let numeroSecreto = 666;
+alert('vamos participar de uma bincadeira companheiro');
+let numeroSecreto = 13;
 console.log('numeroSecreto')
-let chute = prompt('Escolha um numero ae gay');
+let chute = prompt('qual foi número que nosso grande presidente lula usou meu companheiro?');
 
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
-alert('parábens vc é um lixo que está perdendo tempo com isso');
+alert('isso meu companheiro ');
 } else {
-alert('Você errou seu lixo imundo, pq vc ainda está vivo desperdiçando oxigenio')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('se mata')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-alert('pq ainda esta aqui?')
-
+alert('eca bolsonarista')
 }
