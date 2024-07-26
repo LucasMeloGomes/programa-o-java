@@ -9,4 +9,15 @@ alert('parábens vc é um lixo que está perdendo tempo com isso');
 } else {
 alert('Você errou seu lixo imundo, pq vc ainda está vivo desperdiçando oxigenio')
 alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+alert('pq ainda esta aqui?')
+
 }
