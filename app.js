@@ -1,7 +1,7 @@
 alert('que tal participa de uma brincadeira nada divertida');
 let numeroSecreto = 666;
 console.log('numeroSecreto')
-let chute = prompt('Escolha um número entre 1 e 10');
+let chute = prompt('Escolha um numero ae gay');
 
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
